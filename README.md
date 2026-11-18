@@ -76,7 +76,7 @@ This page is my rig. Open it up. 👇
 <details>
 <summary>❄️ <b>Cooling</b>: Chairperson, RAIT ACM Student Chapter</summary>
 
-> Led the **RAIT ACM Student Chapter** and its **30–40 person core team**, running a steady stream of **technical and non-technical events**: **30+ events and hackathons for 500+ people**.
+> Led the **RAIT ACM Student Chapter** and its **40-person core team**, running a steady stream of **technical and non-technical events**: **30+ events and hackathons for 500+ people**.
 > Took the chapter into the **Top 10 Best ACM Chapters in India** (of 250+), and grew membership **108% (120 → 250)**.
 > Also Technology & Digital Transformation Lead at **Dhanwantari Medical Trust** for 12+ free healthcare camps.
 </details>
