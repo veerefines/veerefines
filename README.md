@@ -2,6 +2,10 @@
 
 <img src="assets/boarding-pass.svg" width="100%" alt="Boarding pass: Varun Shivaji Ghorpade, flight VG2026 from Mumbai (BOM) to Los Angeles (LAX), M.S. Computer Science at USC Viterbi, status: in flight" />
 
+<a href="https://linkedin.com/in/varunghorpade"><img src="https://img.shields.io/badge/LinkedIn-varunghorpade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:vghorpad@usc.edu"><img src="https://img.shields.io/badge/Email-vghorpad%40usc.edu-990000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Seeking-Summer_2027_SWE_Internships-FFCC00?style=for-the-badge&logo=rocket&logoColor=black" />
+
 <img src="assets/announcement.svg" width="100%" alt="Cabin announcement: Hello from the flight deck, this is your captain, Varun." />
 
 </div>
@@ -10,9 +14,9 @@
 
 > **Ladies and gentlemen, welcome aboard.**
 >
-> I spent **3.5+ years at KPMG** keeping the regulatory engines of banks running: Basel III pipelines, Oracle OFSAA platforms, and the Linux servers underneath them. I went from ETL intern to Consultant, promoted ahead of cycle.
+> I spent **3.5+ years at KPMG** keeping the regulatory engines of banks running. That meant Basel III pipelines over **50TB+ of data**, high-availability and disaster-recovery deployments for **4 banking clients**, and the Kubernetes and RHEL infrastructure underneath them. I went from **ETL intern to Consultant** in three years.
 >
-> Then I bought a one-way ticket from Mumbai to LA. I'm now doing my **M.S. in Computer Science at USC Viterbi**, working at **USC ITS**, and building **AI agents that still behave when real people use them**.
+> Then I bought a one-way ticket from Mumbai to LA. I'm now doing my **M.S. in Computer Science at USC Viterbi**, keeping USC's classrooms online as a **Technical Student Worker at USC ITS**, and building **AI agents that still behave when real people use them**.
 >
 > Along the way I've started businesses, filed a patent, and run one of India's top 10 ACM chapters. Please keep your seatbelt loosely fastened. We ship fast around here.
 
@@ -21,7 +25,7 @@
 ## ✈️ Departures
 
 <div align="center">
-<img src="assets/departures.svg" width="100%" alt="Departures board: TrojanConnect boarding, TraceLayer landed, UpNAbove in flight, Saani Atelier landed, TumbleDry on time, TWNY IMS on time" />
+<img src="assets/departures.svg" width="100%" alt="Departures board: TrojanConnect boarding, TraceLayer landed, UpNAbove in flight, SkyCrewClub patented, TumbleDry on time, TWNY IMS on time" />
 </div>
 
 <br/>
@@ -29,12 +33,11 @@
 <div align="center">
 
 <a href="https://github.com/MallankG/TrojanConnect"><img src="assets/tag-trojanconnect.svg" width="49%" alt="TrojanConnect — agent network for USC campus" /></a>
-<a href="https://github.com/MallankG/TrojanHacks2026"><img src="assets/tag-tracelayer.svg" width="49%" alt="TraceLayer — TrojanHacks 2026 financial-crime AI" /></a>
+<a href="https://github.com/MallankG/TrojanHacks2026"><img src="assets/tag-tracelayer.svg" width="49%" alt="TraceLayer — governed AML platform: 61.2 AUPRC, 96% precision@100, 41 RLS tables" /></a>
 <img src="assets/tag-upnabove.svg" width="49%" alt="UpNAbove — AI job-hunt copilot" />
-<a href="https://github.com/veerefines/saani-atelier"><img src="assets/tag-saani.svg" width="49%" alt="Saani Atelier — an invite-only gift web app" /></a>
 <img src="assets/tag-tumbledry.svg" width="49%" alt="TumbleDry — WhatsApp bot for laundry shops" />
+<a href="https://github.com/veerefines/SkyCrewClub"><img src="assets/tag-skycrew.svg" width="49%" alt="SkyCrewClub — patented Web3 learning platform, 100+ users" /></a>
 <img src="assets/tag-twny.svg" width="49%" alt="TWNY IMS — fashion operations system" />
-<a href="https://github.com/veerefines/SkyCrewClub"><img src="assets/tag-skycrew.svg" width="49%" alt="SkyCrewClub — patented Web3 learning platform" /></a>
 <a href="https://github.com/varad615/Fabrink"><img src="assets/tag-fabrink.svg" width="49%" alt="FabrInk — print-on-demand apparel" /></a>
 
 <sub>🎫 Click a tag to open its repo. UpNAbove, TumbleDry and TWNY are private: they're client and business code.</sub>
@@ -46,8 +49,17 @@
 ## 🗺️ Flight log: how I got here
 
 <div align="center">
-<img src="assets/flight-log.svg" width="100%" alt="Journey: 2019 B.E. IT at University of Mumbai → founded Covero Essentials during COVID → ACM chapter chair, Top 10 in India → 2022 SkyCrewClub patent → 2023 KPMG ETL intern to Analyst, graduated 9.37 CGPA → 2025 Associate Consultant, Kudos Award → 2026 Consultant, Super Employee and Impact awards → Aug 2026 M.S. CS at USC Viterbi → now building" />
+<img src="assets/flight-log.svg" width="100%" alt="Journey: 2019 B.E. IT at University of Mumbai → Covero Essentials during COVID → ACM chapter chair, Top 10 in India → 2022 SkyCrewClub patent → Jan 2023 KPMG ETL Developer Intern → Jun 2023 graduated (9.37 CGPA), Data Engineer → Mar 2025 Associate Consultant, SWE Infrastructure → Mar 2026 Consultant → Aug 2026 M.S. CS at USC Viterbi and USC ITS → now" />
 </div>
+
+<br/>
+
+## 🎓 Current crew assignment
+
+| | |
+|---|---|
+| 🎓 **M.S. Computer Science, USC Viterbi** · Aug 2026 – May 2028 | Analysis of Algorithms (CSCI 570) · Database Systems (CSCI 585) |
+| 🛠️ **Technical Student Worker, USC ITS – Learning Environments** · Aug 2026 – now | Level 2 support for classroom IT and AV, keeping live lectures at **99.9% availability** · Bash/Python diagnostics that cut manual checks by **25%** |
 
 <br/>
 
@@ -61,13 +73,14 @@
 <summary><b>📼 Open the black box: what I actually did at KPMG</b></summary>
 <br/>
 
-| | |
-|---|---|
-| 🏛️ **Regulatory platforms** | Built and ran **Oracle OFSAA** environments that power **Basel III** reporting for banking clients |
-| 🔄 **Data pipelines** | Designed ETL in **Oracle Data Integrator** and wrote production **SQL / PL-SQL** for risk and finance data |
-| 📊 **Reporting** | Delivered dashboards and regulatory reports on **OBIEE / Oracle Analytics Server** |
-| 🖥️ **Infrastructure** | Owned **RHEL** servers and **WebLogic / Tomcat** app servers: environment builds, upgrades, keeping them up |
-| 🏆 **Recognition** | **Super Employee 2026** · **Impact Award 2026** · **Kudos Award 2025** · promoted to Consultant **ahead of cycle** |
+| Role | Dates | Flight data |
+|---|---|---|
+| **Software Engineer, Infrastructure** · *Consultant* | Mar 2026 – Aug 2026 | Architected multi-node **HA deployments with active-passive DC-DR** on RHEL 8.6 for **4 major banking clients**, with **Kubernetes** running WebLogic & Tomcat · Built **CI/CD pipelines in Go & Python** to provision OFSAA platforms: **releases 30% faster**, zero-downtime upgrades |
+| **Software Engineer, Infrastructure** · *Associate Consultant* | Mar 2025 – Mar 2026 | Profiled batch pipelines over **50TB+ of regulatory data**. JVM tuning, Linux kernel parameters and PL/SQL rewrites made them **40% faster** · Automated scheduling, restarts and log aggregation with Bash/cron · Deployed OFSAA, ODI 12c and OBIEE/OAS stacks · Wrote Basel III solution designs |
+| **Data Engineer, OFSAA & SQL** · *Analyst* | Jun 2023 – Mar 2025 | Led the **OFSAA Basel Credit Risk migration (v8.0.2 → v8.1.2)** with minimal downtime · Built **PL/SQL reconciliation engines** checking UAT against production for **100% data integrity** in regulatory audits |
+| **ETL Developer Intern** | Jan 2023 – Jun 2023 | Built normalized **Erwin 15.1** data models and validated high-throughput **ODI 12c** ETL pipelines for credit-risk data |
+
+🏆 **Super Employee** · **Impact Award** · **Kudos Award** (2025–26) for platform performance, enterprise delivery and infrastructure optimization.
 
 </details>
 
